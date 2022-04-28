@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task2\\Task2.csproj": {}
+    "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task2\\Task2.csproj": {
+    "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task2\\Task2.csproj",
-        "projectName": "Task2",
-        "projectPath": "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task2\\Task2.csproj",
+        "projectUniqueName": "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task3\\Task3.csproj",
+        "projectName": "Task3",
+        "projectPath": "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\Lera\\.nuget\\packages\\",
-        "outputPath": "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task2\\obj\\",
+        "outputPath": "D:\\!!!Обучение\\дз\\4. Основы языков программирования\\HomeWork1\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lera\\AppData\\Roaming\\NuGet\\NuGet.Config"
