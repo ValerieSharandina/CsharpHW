@@ -1,0 +1,30 @@
+D:\!!!Обучение\дз\Введение в программирование\Task1\bin\Debug\net6.0\Task1.exe
+D:\!!!Обучение\дз\Введение в программирование\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\!!!Обучение\дз\Введение в программирование\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\!!!Обучение\дз\Введение в программирование\Task1\bin\Debug\net6.0\Task1.dll
+D:\!!!Обучение\дз\Введение в программирование\Task1\bin\Debug\net6.0\Task1.pdb
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.dll
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.pdb
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\!!!Обучение\дз\Введение в программирование\Task1\obj\Debug\net6.0\ref\Task1.dll
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.dll
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.pdb
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\bin\Debug\net6.0\Task1.exe
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\bin\Debug\net6.0\Task1.dll
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\bin\Debug\net6.0\Task1.pdb
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\!!!Обучение\дз\4. Основы языков программирования\Task1\obj\Debug\net6.0\ref\Task1.dll
