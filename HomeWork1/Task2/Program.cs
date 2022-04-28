@@ -2,20 +2,29 @@
 Напишите программу, которая принимает на
 вход три числа и выдаёт максимальное из этих чисел.
 */
-int[] array = new int [3];
-array[0] = 5;
-array[1]= 6;
-array[2] = 8;
+Console.Write("Введите первое число: ");
+int number1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите второе число: ");
+int number2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите третье число: ");
+int number3 = Convert.ToInt32(Console.ReadLine());
 
-int max = array[0];
+    int max = number1;
+    if(number2 > max) max = number2;
+    if(number3 > max) max = number3;
 
-for (int i = 0; i < array.Length; i++)
-{
-    if (array[i] > max)
-    {
-        max = array[i];
-    }
-  
-Console.WriteLine(max);
-}
+Console.WriteLine("Max число = "+max);
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
