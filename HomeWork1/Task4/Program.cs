@@ -7,11 +7,12 @@ Console.Write ("Введите число:  ");
 int Number = Convert.ToInt32(Console.ReadLine());
 for(int i = 2; i <= Number; i++)
 {
-    Console.Write(i);
-    if (i !=  Number) 
+    if (i %2 == 0)
     {
-       
+         Console.Write(i);
+    if (i != Number)
+    {
         Console.Write(",");
     }
+    }
 }
-//Number %2 == 0
