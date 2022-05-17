@@ -13,3 +13,18 @@ D:\!!!Обучение\дз\4. Основы языков программиро�
 D:\!!!Обучение\дз\4. Основы языков программирования\HomeWork1\Task4\obj\Debug\net6.0\Task4.pdb
 D:\!!!Обучение\дз\4. Основы языков программирования\HomeWork1\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
 D:\!!!Обучение\дз\4. Основы языков программирования\HomeWork1\Task4\obj\Debug\net6.0\ref\Task4.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\bin\Debug\net6.0\Task4.exe
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\bin\Debug\net6.0\Task4.deps.json
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\bin\Debug\net6.0\Task4.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\bin\Debug\net6.0\Task4.pdb
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\refint\Task4.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.pdb
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task4\obj\Debug\net6.0\ref\Task4.dll

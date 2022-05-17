@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task4\\Task4.csproj": {}
+    "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task5\\Task5.csproj": {}
   },
   "projects": {
-    "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task4\\Task4.csproj": {
+    "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task5\\Task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task4\\Task4.csproj",
-        "projectName": "Task4",
-        "projectPath": "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task5\\Task5.csproj",
+        "projectName": "Task5",
+        "projectPath": "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task5\\Task5.csproj",
         "packagesPath": "C:\\Users\\Lera\\.nuget\\packages\\",
-        "outputPath": "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task4\\obj\\",
+        "outputPath": "D:\\!!!Обучение\\дз\\4. Csharp\\HomeWork\\Task5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lera\\AppData\\Roaming\\NuGet\\NuGet.Config",
