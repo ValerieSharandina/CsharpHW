@@ -5,6 +5,7 @@
 */
 Console.Write ("Введите число:  ");
 int Number = Convert.ToInt32(Console.ReadLine());
+
 for(int i = 2; i <= Number; i++)
 {
     if (i %2 == 0)
