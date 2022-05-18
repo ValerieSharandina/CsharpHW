@@ -25,3 +25,9 @@ else if (Number > 999 && Number < 10000)
   int Result = NumberFour;
   Console.WriteLine ($"число {Number} четырехзначное, третья цифра  {Result}");
 }
+else if (Number > 9999 && Number < 100000)
+{
+   int NumberFour = (Number % 1000) / 100; 
+  int Result = NumberFour;
+  Console.WriteLine ($"число {Number} пятизначное, третья цифра  {Result}");
+}
