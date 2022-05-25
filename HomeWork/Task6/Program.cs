@@ -37,7 +37,7 @@ int GetThirdNumber(int inputNumber)
   int result = 0;
     while(inputNumber > 999)
     {
-      inputNumber /= 10;
+      inputNumber /= 10; //это короткий вариант от inputNumber = inputnumber / 10
     }
     result = inputNumber % 10;
   
