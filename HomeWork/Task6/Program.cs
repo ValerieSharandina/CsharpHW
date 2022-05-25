@@ -6,7 +6,7 @@
 32679 -> 6
 */
 
-Console.Write ("Введите число:  ");
+/*Console.Write ("Введите число:  ");
 int Number = Convert.ToInt32(Console.ReadLine());
 
 if (Number < 100)
@@ -30,4 +30,29 @@ else if (Number > 9999 && Number < 100000)
    int NumberFour = (Number % 1000) / 100; 
   int Result = NumberFour;
   Console.WriteLine ($"число {Number} пятизначное, третья цифра  {Result}");
+}*/
+
+int GetThirdNumber(int inputNumber)
+{
+  int result = 0;
+    while(inputNumber > 999)
+    {
+      inputNumber /= 10;
+    }
+    result = inputNumber % 10;
+  
+  return result;
+}
+
+Console.WriteLine("Введите число");
+int number = Convert.ToInt32(Console.ReadLine());
+number = Math.Abs(number); //чтобы работало с отрицательными числами
+if(number > 99)
+{
+  int thirdNumber = GetThirdNumber(number);
+  Console.WriteLine($"Третье число {thirdNumber}");
+}
+else
+{
+  Console.WriteLine("Третьей цифры нет");
 }
