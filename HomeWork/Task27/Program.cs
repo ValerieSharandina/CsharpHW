@@ -6,7 +6,21 @@
 9012 -> 12
 */
 
-Console.WriteLine("Введите число");
+int SumNumbers(int number)
+{
+    int result = 0;
+    for (int i = number; i > 0; i /= 10 )
+    {
+        result = i % 10 + result;
+    }
+    return result;
+}
+
+Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
+
+int result = SumNumbers(number);
+
+Console.WriteLine($"Сумма всех цифр в числе {number} равняется {result}");
 
 
