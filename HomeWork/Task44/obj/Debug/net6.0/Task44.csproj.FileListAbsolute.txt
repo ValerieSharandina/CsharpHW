@@ -1,0 +1,15 @@
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\bin\Debug\net6.0\Task44.exe
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\bin\Debug\net6.0\Task44.deps.json
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\bin\Debug\net6.0\Task44.runtimeconfig.json
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\bin\Debug\net6.0\Task44.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\bin\Debug\net6.0\Task44.pdb
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.csproj.AssemblyReference.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.AssemblyInfoInputs.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.AssemblyInfo.cs
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.csproj.CoreCompileInputs.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\refint\Task44.dll
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.pdb
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\Task44.genruntimeconfig.cache
+D:\!!!Обучение\дз\4. Csharp\HomeWork\Task44\obj\Debug\net6.0\ref\Task44.dll
